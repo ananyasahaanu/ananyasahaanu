@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brazilsinghrittik&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ananyasahaanu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/https://github.com/ananyasahaanu?tab=repositories"><img src="https://img.shields.io/badge/Check+my+Repositories-100000?style=flat&logo=github&logoColor=white&labelColor=blue" /></a>
 </p>
 
@@ -68,19 +68,19 @@
 <h2 align="center">📊 GitHub Stats & Achievements 📊</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brazilsinghrittik&theme=darkhub" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ananyasahaanu&theme=darkhub" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://bad-apple-github-readme.vercel.app/api?username=brazilsinghrittik&show_icons=true&count_private=true&line_height=28&icon_color=00b3ff&title_color=00b3ff&theme=blue-green" alt="GitHub Stats" />
+  <img src="https://bad-apple-github-readme.vercel.app/api?username=ananyasahaanu&show_icons=true&count_private=true&line_height=28&icon_color=00b3ff&title_color=00b3ff&theme=blue-green" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=brazilsinghrittik&layout=compact&theme=blue-green&title_color=00b3ff" alt="Top Languages" />
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ananyasahaanu&layout=compact&theme=blue-green&title_color=00b3ff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=brazilsinghrittik&theme=blue-green&title_color=00b3ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ananyasahaanu&theme=blue-green&title_color=00b3ff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
