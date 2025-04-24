@@ -8,10 +8,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!; Ananya Saha+%7C+Web+Developer;Explorer+of+the+Mapping+World&font=Fira%20Code&center=true&width=550&height=60&duration=3000&pause=1000" alt="Welcome Text">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=brazilsinghrittik&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/https://github.com/ananyasahaanu?tab=repositories"><img src="https://img.shields.io/badge/Check+my+Repositories-100000?style=flat&logo=github&logoColor=white&labelColor=blue" /></a>
 </p>
